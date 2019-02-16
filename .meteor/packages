@@ -9,13 +9,13 @@ coffeescript
 stylus@2.513.13
 mquandalle:jade
 matb33:collection-hooks
-accounts-password@1.5.0
+accounts-password@1.5.1
 staringatlights:fast-render
 # meteorhacks:fast-render - not supported anymore
 cmather:handlebars-server
 email@1.2.3
 jquery@1.11.10
-standard-minifier-css
-standard-minifier-js
-shell-server
-dynamic-import
+standard-minifier-css@1.5.2
+standard-minifier-js@2.4.0
+shell-server@0.4.0
+dynamic-import@0.5.0
