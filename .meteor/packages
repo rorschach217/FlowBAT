@@ -6,7 +6,7 @@
 standard-app-packages
 iron:router
 coffeescript
-stylus@2.513.13
+stylus@=2.513.14
 mquandalle:jade
 matb33:collection-hooks
 accounts-password@1.5.1
